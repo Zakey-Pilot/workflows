@@ -1,10 +1,10 @@
 # Deliverables
 
-- [Student Bio](./student-bio-pr.md)
+- [Profile README](./profile-readme.md)
 - [Group Introduction Repo](./group-introduction-repo.md)
 
-This module has 3 deliverables. One is a contribution to the class repository,
-one is a group project to practice collaboration and the other is a group
+This module has 2 deliverables. One is to create a profile README,
+the other is a group project to practice collaboration and the other is a group
 project to practice following a development strategy.
 
 _Writing code is still writing!_

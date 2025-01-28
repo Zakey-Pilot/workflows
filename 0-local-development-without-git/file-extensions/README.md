@@ -7,7 +7,7 @@ In this folder are some files without an extension, your task is to read the
 text in each file and
 [rename them](https://vscode-docs.readthedocs.io/en/stable/editor/codebasics/#explorer)
 with the correct file extension. All of the files will use one of these
-extensions. (All of these languages are covered in the HYF curriculum):
+extensions. (All of these languages are covered in this curriculum):
 
 - `.css` -
   [Cascading Style Sheet](https://developer.mozilla.org/en-US/docs/Web/CSS):
@@ -37,6 +37,6 @@ extensions. (All of these languages are covered in the HYF curriculum):
   - you'll see this mostly just for LICENSE files and some configurations.
 - `.yml` - [YAML Ain't Markup Language](https://en.wikipedia.org/wiki/YAML):
   - like .json, a format for storing data and configurations, you will see this
-    in the `.github/workflows` folder of HYF repositories.
+    in the `.github/workflows` folder of curriculum repositories.
 
 > You don't need to understand the text to identify which language it is!

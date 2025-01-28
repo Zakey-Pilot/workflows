@@ -14,11 +14,9 @@ project's description, list your group members, and paste this checklist into
 your issue before
 [adding it to the Class Projects board](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/adding-issues-and-pull-requests-to-a-project-board):
 
-> PS. check out other HYF classes for inspiration
-
 ## Checklists
 
-- For your group's `deliverable` issue in the class repo:
+- For your group's `deliverable` card on the class project board:
 
   ```markdown
   <!-- replace the _ with the correct user name and repo -->

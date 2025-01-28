@@ -15,7 +15,7 @@
 
 ### Visual Studio Code (VSCode)
 
-VSC is the text editor you will use to write code at HYF. And it's way more than
+VSC is the text editor you will use to write code. And it's way more than
 just a text editor! Take a look through these links to start learning all you
 can do with VSC. You don't need to understand everything right away, there will
 be more than enough time to practice:
@@ -128,7 +128,6 @@ be more than enough time to practice:
 - [about code reviews](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews)
 - [requesting a code review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
 - [prevent pushing to `main`](https://stackoverflow.com/a/57685576)
-- [Git Workflow for 2](https://github.com/hackyourfuturebelgium/git-workflow-workshop-for-two)
 - [Pull Requests](https://www.youtube.com/watch?v=2M16faxEQsg)
 - [Git & GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - The Net Ninja:
@@ -226,7 +225,7 @@ and finally ...
 
 ## Class Recordings
 
-> - HYF modules are often updated, recordings from past classes may not match
+> - DeNepo modules are often updated, recordings from past classes may not match
 >   this gitbook
 > - When sending a PR's with recording links please ...
 >   - Indicate which class you were teaching
