@@ -178,14 +178,6 @@ on different changes in parallel.
   - [ ] Return to a previous version of your project with `git log` and
         `git checkout <commit-hash>`
   - [ ] Stash and retrieve uncommitted changes with `git stash` and `git pop`
-  - [ ] Display list of existing remote URLs using `git remote -v`
-  - [ ] Add a new remote repository URL using
-        `git remote add <shortname> <remote-url>`
-  - [ ] Update a remote repository URL using
-        `git remote set-url <exsit-shortname> <new-remote-url>`
-  - [ ] Rename a remote repository URL using
-        `git remote rename <old-shortname> <new-shortname>`
-  - [ ] Remove a remote repository URL using `git remote rm <exsit-shortname>`
 - 🥚 **`.gitignore`**: You can use a `.gitignore` file to describe which files
   you don't want included in your git history.
 - 🥚 **VSCode**: You can ...
@@ -205,6 +197,15 @@ on different changes in parallel.
 Learn how you can connect your local Git repositories with a GitHub repository
 to add more structure to your development process and to share your projects.
 
+-  🥚 **Git**: Using the CLI you can ...
+     - [ ] Display list of existing remote URLs using `git remote -v`
+     - [ ] Add a new remote repository URL using
+           `git remote add <shortname> <remote-url>`
+      - [ ] Update a remote repository URL using
+           `git remote set-url <exsit-shortname> <new-remote-url>`
+     - [ ] Rename a remote repository URL using
+           `git remote rename <old-shortname> <new-shortname>`
+     - [ ] Remove a remote repository URL using `git remote rm <exsit-shortname>`
 - 🥚 **Licenses**: You can ...
   - [ ] Explain why it's important to include a license for your code on GitHub
   - [ ] Choose a license for your projects that matches how you want others to
